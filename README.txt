@@ -1,1 +1,4 @@
 계산기JS
+
+1. ADD
+2. SUBTRACT
